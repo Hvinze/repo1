@@ -1,4 +1,5 @@
 Added new file.
 better it should work
 Adding new line
-Added a new line in new branch.
+Added a line in main branch.
+Error solving in branches.
